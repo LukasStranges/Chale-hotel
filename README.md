@@ -1,2 +1,2 @@
 # Chale-hotel
- projeto referente aou curso da Udemy
+ projeto referente ao curso da Udemy
